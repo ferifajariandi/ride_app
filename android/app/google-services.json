@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598351670648",
+    "project_id": "flutter-uber-clone-7db0a",
+    "storage_bucket": "flutter-uber-clone-7db0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598351670648:android:d5bb8d4c715c5185b8ac8d",
+        "android_client_info": {
+          "package_name": "com.ferifajariandi.rideapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598351670648-oif015b44u3oh91d7i8gohu425mc38d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP6iImKa85S-Z6gA_rAxA5xJjosIDv3Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598351670648-oif015b44u3oh91d7i8gohu425mc38d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
